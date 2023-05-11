@@ -1,0 +1,20 @@
+.management-contact-page {
+    .management-contact-box {
+        flex-wrap: wrap;
+
+        .management-contact-item {
+            flex     : 0 0 30%;
+            max-width: 30%;
+            margin-right: 16px;
+
+            label {
+                margin : 10px 0px 3px;
+                display: block;
+            }
+
+            input {
+                padding: 5px;
+            }
+        }
+    }
+}

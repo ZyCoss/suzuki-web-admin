@@ -1,0 +1,25 @@
+.header {
+    height          : 64px;
+    background-color: #fff !important;
+
+    .logo {
+        background-color: #fff;
+        line-height     : 64px;
+        margin-right    : 12px;
+
+        img {
+            max-height: 48px;
+            display   : block;
+        }
+    }
+
+    .header-right-section {
+        margin: 0px 16px;
+        .email-admin {
+            margin: 0px 12px;
+        }
+        .btn-log-out {
+
+        }
+    }
+}
